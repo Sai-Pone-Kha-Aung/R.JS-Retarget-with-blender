@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <Canvas camera={{ position: [0, 1, 2] }}>
+      <Canvas camera={{ position: [0, 1, 3] }}>
 
         <ambientLight />
         <Suspense fallback={null}>
